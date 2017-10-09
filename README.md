@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-africa.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-africa?ref=badge_shield)
+
 GitHub Africa
 =============
 
@@ -32,3 +34,7 @@ Usage
 
 Main per-user data is located in `step4.json`.
 The Step5 creates a CSV file usable with Mapbox Studio to create a simple map based on number of users per country/city.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-africa.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub-africa?ref=badge_large)
